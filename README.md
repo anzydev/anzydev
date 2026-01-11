@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I%E2%80%99m+Anzy+%F0%9F%98%8A;Open-source+contributor+%E2%9D%A4%EF%B8%8F+;Always+open+to+collaborations+%F0%9F%94%A5)](https://git.io/typing-svg)
 
----
+
 
 ## 💫 About Me
 I like to turn abstract ideas into visuals and working systems.  
 I focus on building things that are practical, scalable, and actually usable.
 
----
+
 
 ## 🌐 Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/khushagrarawal)
@@ -15,7 +15,7 @@ I focus on building things that are practical, scalable, and actually usable.
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/anzydev)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anzydev@gmail.com)
 
----
+
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,7 +33,7 @@ I focus on building things that are practical, scalable, and actually usable.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=anzydev&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)
@@ -42,17 +42,6 @@ I focus on building things that are practical, scalable, and actually usable.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anzydev&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anzydev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=anzydev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=anzydev&icon=0&color=0)](https://visitcount.itsvg.in)
 
