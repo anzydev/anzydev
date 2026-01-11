@@ -1,51 +1,61 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=40&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I%E2%80%99m+Anzy+%F0%9F%98%8A;Open-source+contributor+%E2%9D%A4%EF%B8%8F+;Always+open+to+collaborations+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=45&duration=3500&pause=800&width=500&height=75&lines=Hello%2C+I'm+Anzy;Sharing+Is+Caring;Loves+To+Care)](https://git.io/typing-svg)
 
+---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=35&duration=1&pause=1000&color=FFFFFF&width=400&height=75&lines=About+Me%3A)](https://git.io/typing-svg)
 
-## 🙂 About Me
-I like to turn abstract ideas into visuals and working systems.  
-I focus on building things that are practical, scalable, and actually usable.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=25&duration=1&pause=1000&color=FFFFFF&width=700&height=40&lines=1.++Turning+abstracts+into+visuals)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=25&duration=1&pause=1000&color=FFFFFF&width=700&height=40&lines=2.++Making+the+visuals+actually+usable)](https://git.io/typing-svg)
 
+---
 
-## 🗺️ Socials
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/khushagrarawal)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lone.server/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32183100/anzy)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/anzydev)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anzydev@gmail.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=FFFFFF&width=435&lines=Socials%3A)](https://git.io/typing-svg)
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/lone.server/">
+        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/919166535193">
+        <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="70"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
+---
 
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=FFFFFF&width=435&lines=Tech+Stack%3A)](https://git.io/typing-svg)
 
+<img src="https://raw.githubusercontent.com/anzydev/testyourpassword/refs/heads/main/assets/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" />
 
+---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=anzydev&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=FFFFFF&width=435&lines=Stats%3A)](https://git.io/typing-svg)
 
-![](https://nirzak-streak-stats.vercel.app/?user=anzydev&theme=codeSTACKr&hide_border=false)
+<img src="https://nirzak-streak-stats.vercel.app/?user=anzydev&theme=codeSTACKr&hide_border=false"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anzydev&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=FFFFFF&width=435&lines=Day%3A)](https://git.io/typing-svg)
 
-[![](https://visitcount.itsvg.in/api?id=anzydev&icon=0&color=0)](https://visitcount.itsvg.in)
+<table>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="90"/></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="90"/></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/74038190/216649450-e63af5d5-a769-4e9f-8bd1-c2b9005dc53c.gif" width="90"/></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/74038190/216653728-5f452bd4-f1b8-401e-a337-f6fbae9d493a.gif" width="90"/></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="90"/></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="90"/></td>
+  </tr>
+</table>
 
+---
 
-## 💰 Support
-If my work helps you or inspires you, you can support it here:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=FFFFFF&width=435&lines=Support+Me+%3A)](https://git.io/typing-svg)
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anzydev)
