@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I%E2%80%99m+Anzy+%F0%9F%98%8A;Open-source+contributor+%E2%9D%A4%EF%B8%8F+;Always+open+to+collaborations+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=40&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I%E2%80%99m+Anzy+%F0%9F%98%8A;Open-source+contributor+%E2%9D%A4%EF%B8%8F+;Always+open+to+collaborations+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 
 
