@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=45&duration=3500&pause=800&width=500&height=75&lines=Hello%2C+I'm+Anzy;Sharing+Is+Caring;Loves+To+Care)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=45&duration=3500&pause=900&width=500&height=75&lines=Hello%2C+I'm+Anzy;Sharing+Is+Caring;Loves+To+Care)](https://git.io/typing-svg)
 
 ---
 
