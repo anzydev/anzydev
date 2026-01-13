@@ -2,15 +2,15 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=35&duration=1&pause=1000&color=AADDEC&width=400&height=75&lines=About+Me%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=35&duration=1&pause=1000&color=09F7D9&width=400&height=75&lines=About+Me%3A)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=25&duration=1&pause=1000&color=AADDEC&width=700&height=40&lines=1.++Turning+abstracts+into+visuals)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=25&duration=1&pause=1000&color=09F7D9&width=700&height=40&lines=1.++Turning+abstracts+into+visuals)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=25&duration=1&pause=1000&color=AADDEC&width=700&height=40&lines=2.++Making+the+visuals+actually+usable)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=25&duration=1&pause=1000&color=09F7D9&width=700&height=40&lines=2.++Making+the+visuals+actually+usable)](https://git.io/typing-svg)
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=AADDEC&width=435&lines=Socials%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=09F7D9&width=435&lines=Socials%3A)](https://git.io/typing-svg)
 
 <table>
   <tr>
@@ -29,19 +29,19 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=AADDEC&width=435&lines=Tech+Stack%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=09F7D9&width=435&lines=Tech+Stack%3A)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/anzydev/testyourpassword/refs/heads/main/assets/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" />
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=AADDEC&width=435&lines=Stats%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=09F7D9&width=435&lines=Stats%3A)](https://git.io/typing-svg)
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=anzydev&theme=codeSTACKr&hide_border=false"/>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=AADDEC&width=435&lines=Day%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=09F7D9&width=435&lines=Day%3A)](https://git.io/typing-svg)
 
 <table>
   <tr>
@@ -56,6 +56,6 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=AADDEC&width=435&lines=Support+Me+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=1&pause=1000&color=09F7D9&width=435&lines=Support+Me+%3A)](https://git.io/typing-svg)
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anzydev)
