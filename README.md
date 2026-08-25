@@ -12,20 +12,7 @@
   />
 </p>
 
-<!-- ==================== ABOUT ME ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=About%20Me&fontSize=45&stroke=58A6FF&strokeWidth=2&animation=twinkling" alt="About Me" />
-</p>
-
-<p align="center">
-  1. Turning abstracts into visuals<br>
-  2. Making the visuals actually usable
-</p>
-
-<div style="height:30px;"></div>
-
 ---
-
 <!-- ==================== CONNECT ==================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Connect%20With%20Me&fontSize=45&stroke=58A6FF&strokeWidth=2&animation=twinkling" alt="Connect with Me" />
@@ -102,25 +89,3 @@
 <div style="margin:40px 0;"></div>
 
 ---
-
-<!-- ==================== SUPPORT ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Support%20My%20Work&fontSize=45&stroke=58A6FF&strokeWidth=2&animation=twinkling" alt="Support My Work" />
-</p>
-
-<p align="center">
-  If you enjoy what I build, consider buying me a coffee — it keeps the creativity flowing!<br><br>
-  <a href="https://buymeacoffee.com/anzydev" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
-<div style="margin:40px 0;"></div>
-
-<!-- ==================== FOOTER ==================== -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=11&height=150&section=footer&stroke=58A6FF&strokeWidth=2"
-    alt="Footer"
-  />
-</p>
